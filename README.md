@@ -3,5 +3,7 @@
 - [x] Decidir como guardar listas
 - [x] Lembrar de consertar o iterador do monitorador (só percorrer o "j" e deixar "i" associado com o counter da página)
 - [x] IMDB Stuff
-- [ ] IMDB to JSON file <3
+- [x] IMDB to JSON file <3
+- [ ] Clean this repo
+- [ ] load data in the csv and json files
 - [ ] Deliver assignment
